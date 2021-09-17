@@ -7,3 +7,5 @@ This is an example of my [SAS code for proc report result summary using &sysinfo
 
 ## Colab
 
+Here is an example of [jupyter notebook](https://github.com/jmbo1190/Cloud-Computing-Foundations/blob/ca15a43169264d4aa88ac906fa3ad3e7eaddec7e/Example_Notebook.ipynb).
+
